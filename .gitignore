@@ -1,3 +1,5 @@
 # Vs Code
 .idea/
 *.iml
+# Maven
+target/
